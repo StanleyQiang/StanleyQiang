@@ -7,26 +7,28 @@
 - ⚡ Fun fact:
   If you're a professional, why don't you have working histories with repositories?
   I have a very shy personality. But I can show my histories that I have worked ago in several companies.
-- My clients say:
- Juan Camilo Sanabria   27 days ago
+
+  
+My clients say:
+ - Juan Camilo Sanabria   27 days ago
  "Stan is an excellent programmer, very creative and disciplined. It's also evident that he knows a lot and makes changes tremendously quickly. He strives to deliver things well."
- matheus franquini   2 months ago
+ - Matheus franquini   2 months ago
  "Foi apresentado a situação e resolvido com sucesso."
- Glauber   4 months ago
+ - Glauber   4 months ago
  "O projeto foi feito em prazo menor que o acordado e com qualidade muito boa."
- Eduardo Fagundes Moser da Silva   10 months ago
+ - Eduardo Fagundes Moser da Silva   10 months ago
  "He is a good worker, finished the work and did new adjust to better delivery."
- Yuri Matelli Calazans Luz   11 months ago
+ - Yuri Matelli Calazans Luz   11 months ago
  "Stanley has very good knowledge and was quick with the delivery. He was also very good at communicating and understanding about our needs."
- Jenny Ruiz   11 months ago
+ - Jenny Ruiz   11 months ago
  "Stanley understood and satisfactorily resolved my request. In the time that I needed. It has been a pleasure working with him."
- Montse   11 months ago
+ - Montse   11 months ago
  "Stanley is very professional, caring and patient."
- DAVID rebolledo gonzalez   11 months ago
+ - DAVID rebolledo gonzalez   11 months ago
  "We have worked with him again, another successful project. He has done a very good job and very fast. We recommend him 100%."
- Oscar Emmanuel Requiz Vargas   11 months ago
+ - Oscar Emmanuel Requiz Vargas   11 months ago
  "Stanley is a pro!"
- DAVID rebolledo gonzalez   Last year
+ - DAVID rebolledo gonzalez   Last year
  "A good professional. He has done a very complicated job in a short time and has fulfilled everything we asked him to do.
 
 
